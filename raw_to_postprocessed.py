@@ -12,7 +12,7 @@ import glob
 from joblib import Parallel, delayed
 
 # Folder paths
-RAW='data/raw/'
+RAW='data/SID/'
 RAW_SONY=RAW+'Sony/'
 RAW_FUJI=RAW+'Fuji/'
 EXT_SONY='.ARW'
