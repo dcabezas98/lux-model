@@ -61,8 +61,9 @@ def low(img_set):
 #low('results/p2pGAN/')
 #low('results/histEqHLS/')
 #low('results/histEqHSV/')
-#low('results/p2pGANlow/') # Processed by generator with low resolution (1024 x 1536)
+#low('results/p2pGANlow/') # Processed by generator with lower resolution (1024 x 1536)
+#low('results/p2pGANlow2/') # Processed by generator with lower resolution (2048 x 3072)
 #low('results/p2pGANepoch70/')
 #low('results/p2pGANepoch60/')
-#low('results/p2pGANepoch-train-false/')
+#low('results/p2pGAN-train-false/')
 
