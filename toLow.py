@@ -68,4 +68,5 @@ def low(img_set):
 #low('results/p2pGAN-train-false/')
 #low('results/border-0/')
 #low('results/border-copy/')
+#low('results/histEq/')
 
