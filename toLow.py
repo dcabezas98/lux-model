@@ -69,4 +69,5 @@ def low(img_set):
 #low('results/border-0/')
 #low('results/border-copy/')
 #low('results/histEq/')
+#low('results/p2pGANpng/') # Requires to change .jpg -> .png
 
